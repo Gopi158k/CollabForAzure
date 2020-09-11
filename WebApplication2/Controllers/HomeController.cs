@@ -15,7 +15,7 @@ namespace WebApplication2.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "My 2nd Page";
+            ViewBag.Message = "My 2nd Page- Gopi Kishan and Janhvi Singh";
 
             return View();
         }
